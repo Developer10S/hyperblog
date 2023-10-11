@@ -4,6 +4,7 @@ un blog creado desde platzi :)
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code
 *creado por el incleible yo
 *incluye ejemplos de win y linux
+*disponible para edades"
 **100% recomiendo platzi**
 
 
