@@ -3,7 +3,7 @@ un blog creado desde platzi :)
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code
 *creado por el incleible yo
-
+*incluye ejemplos de win y linux
 **100% recomiendo platzi**
 
 
